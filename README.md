@@ -1,4 +1,4 @@
-##TipCalculatorApp
+<h1>TipCalculatorApp</h1>
 
 Part 1) TipCalculator App in in chapter 12 of the Deitel and Deitel
 
